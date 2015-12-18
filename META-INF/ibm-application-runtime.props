@@ -1,0 +1,4 @@
+#Created by WebSphere.  Do not modify.
+#Wed May 28 16:22:22 COT 2014
+com.ibm.ws.runtime.components.ConstructorEJB.jar=WebSphere\:specname\=WS_EJBContainer
+com.ibm.ws.runtime.components.Constructor.war=WebSphere\:specname\=WS_WebContainer
